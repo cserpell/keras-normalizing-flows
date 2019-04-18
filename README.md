@@ -47,7 +47,7 @@ In F. Bach &#38; D. Blei (Eds.),
 32nd International Conference on Machine Learning</i>
 (Vol. 37, pp. 1530-1538).
 Lille, France: PMLR.
-https://doi.org/10.1113/jphysiol.2003.055525
+http://proceedings.mlr.press/v37/rezende15.pdf
 
 ## Questions
 
